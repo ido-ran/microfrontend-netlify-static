@@ -2,6 +2,8 @@
 
 This is an adaptation of [Micro Frontends](https://github.com/neuland/micro-frontends) example application to run in [Netlify](https://netlify.com) platform.
 
+You can [see live example](https://microfrontend-red.netlify.com/) of it working.
+
 # What changed?
 
 I've started with [1-composition-client-only](https://github.com/neuland/micro-frontends/tree/master/1-composition-client-only) directory.  
